@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[正则表达式(一) 定义]]></title>
+    <url>%2F2017%2F09%2Fregex-1%2F</url>
+    <content type="text"><![CDATA[写在最前前段时间，为了解析不同持久层框架的 Sql语句，用到了正则表达式，遂花点时间把正则相关的知识做了一些整理。 什么是正则表达式维基百科中的定义为： 正则表达式，又称正规表示式、正规表示法、正规表达式、规则表达式、常规表示法（英语：Regular Expression，在代码中常简写为regex、regexp或RE），是计算机科学的一个概念。正则表达式使用单个字符串来描述、匹配一系列匹配某个句法规则的字符串。 –待续。。。 eg: ``]]></content>
+      <categories>
+        <category>有用功</category>
+      </categories>
+      <tags>
+        <tag>正则表达式</tag>
+      </tags>
+  </entry>
+</search>
